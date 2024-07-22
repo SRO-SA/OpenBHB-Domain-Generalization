@@ -1,0 +1,15 @@
+data/*
+2d-slice-set-networks/*
+TmpData/*
+logs/*
+'logs 40%'/*
+figures/*
+models/*
+__pycache__/*
+da/*
+
+
+*.csv
+*.pdf
+*.png
+
