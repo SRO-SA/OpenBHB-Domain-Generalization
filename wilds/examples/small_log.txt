@@ -1,0 +1,84 @@
+train:  1589
+ood val:  594
+ood test:  594
+unlabeled train:  1207
+train:  1589
+ood val:  594
+ood test:  594
+unlabeled train:  1207
+train:  1589
+ood val:  594
+ood test:  594
+unlabeled train:  1801
+train:  1589
+ood val:  594
+ood test:  594
+unlabeled train:  1801
+train:  1589
+ood val:  594
+ood test:  594
+unlabeled train:  1801
+----------------------------------Non Harmonized---------------------------------------
+train:  1589
+ood val:  594
+ood test:  594
+unlabeled train:  1207
+train:  1589
+ood val:  594
+ood test:  594
+unlabeled train:  1207
+train:  1589
+ood val:  594
+ood test:  594
+unlabeled train:  1801
+train:  1589
+ood val:  594
+ood test:  594
+unlabeled train:  1801
+train:  1589
+ood val:  594
+ood test:  594
+unlabeled train:  1207
+train:  1589
+ood val:  594
+ood test:  594
+unlabeled train:  1207
+---------------------------------------------------- Non Adaptation
+train:  2772
+ood val:  594
+ood test:  594
+train:  1589
+ood val:  594
+ood test:  594
+train:  1589
+ood val:  594
+ood test:  594
+train:  2772
+ood val:  594
+ood test:  594
+------ DANN All Labeled -------------------------
+train:  2772
+ood val:  594
+ood test:  594
+train:  2772
+ood val:  594
+ood test:  594
+train:  2772
+ood val:  594
+ood test:  594
+train:  2772
+ood val:  594
+ood test:  594
+-------------- Harmonized NO ID ---------------------------
+train:  1589
+ood val:  594
+ood test:  594
+train:  1589
+ood val:  594
+ood test:  594
+train:  2772
+ood val:  594
+ood test:  594
+train:  2772
+ood val:  594
+ood test:  594

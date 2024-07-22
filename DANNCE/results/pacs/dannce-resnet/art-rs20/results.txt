@@ -1,0 +1,8 @@
+OpenBHB: acc=7.5517 loss=143.2779
+OpenBHB: acc=7.1123 loss=97.2935
+OpenBHB: acc=5.7385 loss=80.4783
+OpenBHB: acc=5.3280 loss=82.6419
+OpenBHB: acc=7.1462 loss=143.5395
+OpenBHB: acc=4.7061 loss=48.1368
+OpenBHB: acc=9.9476 loss=218.9630
+OpenBHB: acc=9.5285 loss=226.4981
